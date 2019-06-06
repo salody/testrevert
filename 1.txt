@@ -3,4 +3,3 @@
 测试提交
 
 
-推送到了 酷渲研发团队/enterprise-api 的 wt/integral_mall 分支
